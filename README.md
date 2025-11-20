@@ -14,4 +14,6 @@ I den här workshopen får du steg för steg utforska regular expressions, från
 
 - I [regexr.com](regexr.com) får du visuell feedback i ett smidigt gränssnitt
 - Använd `.match()` för att returnera en array med alla matchningar
-- `.test()` tittar på om en sträng och en regular expression matchar varandra och returnerar en boolean
+- `.test()` tittar på om en sträng och en regex matchar varandra och returnerar en boolean
+- Skapa variabler för alla olika regexes samt av strängarna ovan
+- Konsollogga resultatet av `.test()` och `.match()` med olika regexes och strängar för att få en klarare uppfattning om hur de fungerar
