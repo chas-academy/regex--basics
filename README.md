@@ -10,6 +10,8 @@ I den här workshopen får du steg för steg utforska regular expressions, från
 - Identifiera antalet vokaler och konsonanter i `"The quick brown fox jumps over the lazy dog."`
 - Hämta ut mailadresserna från `"Du kan nå mig på gus.davidson@chas1234.org, alternativt gus@chåsacademy.se"`
 
+_(åäö ska behandlas på samma sätt som a-z)_
+
 ## 💡 Tips
 
 - I [regexr.com](regexr.com) får du visuell feedback i ett smidigt gränssnitt
